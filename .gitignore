@@ -4,7 +4,7 @@ venv/
 env/
 .env/
 ENV/
-
+.env
 # Python bytecode
 __pycache__/
 *.py[cod]
